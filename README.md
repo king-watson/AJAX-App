@@ -68,7 +68,7 @@ Error Response: If the fetch fails, a friendly error message is shown to the use
 
 Device Handling: Different elements are shown or hidden depending on the viewport size.
 
-## GitHub Workflow <br/>
+## GitHub Workflow 📄<br/>
 Work is completed on feature branches, never directly on master.
 
 All features are merged through pull requests.
@@ -84,7 +84,7 @@ To run the portfolio locally:
 - Navigate into the project directory:
 - Open the index.html file in your browser, or if using a local server, start the server and navigate to localhost to view.
 
-## Conclusion <br/>
+## Conclusion 🏁<br/>
 This assignment completes the dynamic transformation of the KingBuds Model Page by combining all major course concepts—SASS, AJAX, templating, Fetch API, responsive design, and proper Git workflow—into one cohesive project.
 The result is a more interactive, polished, and modern product page that provides users with a smooth experience across all devices.
 
